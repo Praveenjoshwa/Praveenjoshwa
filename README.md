@@ -44,20 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Praveenjoshwa&show_icons=true&theme=dark" height="170"/>
-<img src="https://streak-stats.demolab.com?user=Praveenjoshwa&theme=dark" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenjoshwa&layout=compact&theme=dark" height="150"/>
-</p>
-
----
 
 
----
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
