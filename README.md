@@ -1,21 +1,22 @@
-## Hi there 👋 I'm Praveen Joshwa
+## Hi there 👋 I'm Praveen Joshwa  
 
-- 🔭 I’m currently working on **front-end & full-stack projects (HTML, CSS, JS, React)**  
+- 🔭 I’m currently working on **Front-end & Full-Stack projects (HTML, CSS, JS, React)**  
 - 🌱 I’m currently learning **Python, MERN Stack & building real-world applications**  
-- 👯 I’m looking to collaborate on **AI + Web development projects**  
-- 🤔 I’m looking for help with **improving backend and ML model integration**  
-- 💬 Ask me about **Frontend development, React, Python, and UI designing**  
-- ⚡ Fun fact: **I love to Expore New Things**  
+- 👯 I’m looking to collaborate on **AI + Web Development projects**  
+- 🤔 I’m looking for help with **Backend improvement & ML model integration**  
+- 💬 Ask me about **Frontend development, React, Python, and UI Designing**  
+- ⚡ Fun fact: **I love to explore new things 🚀**  
 
 ---
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bpj45)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshwa4510@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshwa4510@gmail.com)
 
 ---
 
-# 💻 Tech Stack  
+## 💻 Tech Stack  
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,12 +31,19 @@
 
 ---
 
-# 📊 GitHub Stats  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Praveenjoshwa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenjoshwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats  
+
+![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveenjoshwa&show_icons=true&theme=dark&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Praveenjoshwa&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenjoshwa&layout=compact&theme=dark&hide_border=false)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Praveenjoshwa&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=Praveenjoshwa&label=Profile%20Views&color=0e75b6&style=flat)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### ⭐ If you like my work, consider giving a star to my repositories!
