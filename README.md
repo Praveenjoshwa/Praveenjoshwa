@@ -57,11 +57,6 @@
 
 ---
 
-## 👀 Profile Views  
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Praveenjoshwa&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
 ---
 
